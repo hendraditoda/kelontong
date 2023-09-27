@@ -10,6 +10,7 @@ Requirements: using node.js version 18.18.0
 1. go to each frontend and backend folder do "Npm Install"
 2. Create an .env file with this format
 
+> [!NOTE]
 NODE_ENV=development
 PORT=5001
 MONGO_URI=mongodb+srv://hendradito123:yourpassword@kelontong.hwvv3wa.mongodb.net/grocery?retryWrites=true&w=majority
