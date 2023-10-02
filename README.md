@@ -13,7 +13,7 @@ Requirements: using node.js version 18.18.0
 > [!NOTE]
 NODE_ENV=development
 PORT=5001
-MONGO_URI=mongodb+srv://hendradito123:yourpassword@kelontong.hwvv3wa.mongodb.net/grocery?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://hendradito123:hendradito123@kelontong.hwvv3wa.mongodb.net/kelontong?retryWrites=true&w=majority
 JWT_SECRET=grocery123
 
 3.then run "NPM run dev"
